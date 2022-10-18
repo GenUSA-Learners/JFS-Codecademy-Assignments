@@ -64,6 +64,8 @@
 - Article: [`Set up with Git and GitHub`](https://www.codecademy.com/courses/learn-git/articles/f1-u3-git-setup)
 - Article: [`Getting Started with Git and GitHub (Videos)`](https://www.codecademy.com/courses/learn-git/articles/getting-started-git-and-github)
 
+### Session 3: Learn Debrief **`SYNC`*
+
 ## Keep In Mind
 
 ### Behavioral Skills & Mindsets for this Unit
