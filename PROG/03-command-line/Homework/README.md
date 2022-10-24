@@ -48,15 +48,10 @@
 ***Configuring the Environment***
 
 - Informational: [`Configuring the Command Line Environment`](https://www.codecademy.com/courses/learn-the-command-line/informationals/learn-command-line-configuring-environment)
-
 - Lesson: [`Environment`](https://www.codecademy.com/courses/learn-the-command-line/lessons/learn-command-line-environment/resume)
-
 - Quiz: [`Configuring the Environment`](https://www.codecademy.com/courses/learn-the-command-line/quizzes/command-line-4)
-
 - Project: [`Attica`](https://www.codecademy.com/courses/learn-the-command-line/projects/attica)
-
 - Article: [`Lingua Franca - An Offline Project`](https://www.codecademy.com/courses/learn-the-command-line/articles/command-line-offline-project)
-
 - Article: [Windows Command Line](https://www.codecademy.com/courses/learn-the-command-line/articles/windows-command-line)
 
   `Objective- Set up the environment using the command line`
@@ -64,9 +59,7 @@
 ***Learn Bash Scripting***
 
 - Lesson: [Learn Bash Scripting](https://www.codecademy.com/courses/bash-scripting/lessons/learn-bash-scripting/resume)
-
 - Quiz: [Bash Scripting](https://www.codecademy.com/courses/bash-scripting/quizzes/bash-scripting-q)
-
 - Project: [Build a Build Script](https://www.codecademy.com/courses/bash-scripting/projects/bash-scripting-p)
 
   `Objective- Manage automation of common tasks using bash scripting`

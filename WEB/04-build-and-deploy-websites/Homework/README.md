@@ -9,6 +9,8 @@
 
 ### Session 1: How to Build Websites on Your Own Computer **`SYNC`*
 
+***Intro to Local Website Development***
+
 - Informational: [`Local Website Development`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/build-websites-on-your-own-computer/modules/local-website-development/informationals/local-website-development)
 - Article: [`Getting Started with Visual Studio Code and Building HTML`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/build-websites-on-your-own-computer/modules/local-website-development/articles/visual-studio-code)
 - Article: [`Getting Started with Atom`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/build-websites-on-your-own-computer/modules/local-website-development/articles/f1-text-editors)
