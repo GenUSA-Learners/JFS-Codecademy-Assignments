@@ -19,6 +19,7 @@
 - [**Building Interactive JavaScript Websites***](https://www.codecademy.com/learn/build-interactive-websites)
 - [**Learn JavaScript Unit Testing***](https://www.codecademy.com/learn/learn-javascript-unit-testing)
 - [**Learn SQL***](https://www.codecademy.com/learn/learn-sql)
+- [**Learn Java***](https://www.codecademy.com/learn/learn-java)
 
 ## Homework + Learning Objectives
 
@@ -669,3 +670,157 @@
 `Objective`- *`Use essential query keywords`*
 `Objective`- *`Use functions to perform data operations`*
 `Objective`- *`Use join and combine to manipulate data in more then one table`*
+
+### JAVA INTRO 1 - Hello World and Variables
+
+***Hello World***
+
+- Lesson: [`Hello World`](https://www.codecademy.com/courses/learn-java/lessons/hello-world-java/resume)
+- Article: [`Java Program Structure`](https://www.codecademy.com/courses/learn-java/articles/java-program-structure)
+- Quiz: [`Hello World`](https://www.codecademy.com/courses/learn-java/quizzes/java-hello-world-quiz)
+- Project: [`Planting a Tree`](https://www.codecademy.com/courses/learn-java/projects/planting-a-tree)
+- Article: [`What is an IDE?`](https://www.codecademy.com/courses/learn-java/articles/what-is-an-ide)
+
+`Objective`- *`Explain how to write a simple Hello, World program using Java`*
+
+***Variables***
+
+- Lesson: [`Learn Java: Variables`](https://www.codecademy.com/courses/learn-java/lessons/learn-java-variables/resume)
+- Quiz: [`Java Variables Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-variables-quiz)
+- Project: [`Java Variables: Mad Libs`](https://www.codecademy.com/courses/learn-java/projects/java-variables-mad-libs)
+- Lesson: [`Learn Java: Manipulating Variables`](https://www.codecademy.com/courses/learn-java/lessons/learn-java-manipulating-variables/resume)
+- Quiz: [`Java Variable Manipulation Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-variable-manipulation-quiz)
+- Project: [`Math Magic`](https://www.codecademy.com/courses/learn-java/projects/math-magic)
+
+`Objective`- *`Explain data types`*
+`Objective`- *`Manipulate variables`*
+
+### JAVA INTRO 2 - Object Oriented Java Using Classes, Conditionals and Control Flow
+
+***Object Oriented Java***
+
+- Video: [`Classes and Objects`](https://www.codecademy.com/courses/learn-java/videos/classes-and-objects-video)
+- Lesson: [`Java: Introduction to Classes`](https://www.codecademy.com/courses/learn-java/lessons/java-introduction-to-classes/resume)
+- Quiz: [`Intro to Java Classes`](https://www.codecademy.com/courses/learn-java/quizzes/intro-to-java-classes-qz)
+- Lesson: [`Learn Java: Methods`](https://www.codecademy.com/courses/learn-java/lessons/learn-java-methods/resume)
+- Quiz: [`Java Methods Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-methods-quiz)
+- Project: [`Basic Calculator`](https://www.codecademy.com/courses/learn-java/projects/basic-calculator)
+- Project: [`Build a Droid`](https://www.codecademy.com/courses/learn-java/projects/build-a-droid)
+
+`Objective`- *`Explain syntax for defining classes and creating instances`*
+
+***Conditionals and Control Flow***
+
+- Lesson: [`Conditionals and Control Flow`](https://www.codecademy.com/courses/learn-java/lessons/java-conditionals-and-control-flow/resume)
+- Lesson: [`Conditional Operators`](https://www.codecademy.com/courses/learn-java/lessons/java-boolean-operators/resume)
+- Quiz: [`Conditionals and Control Flow`](https://www.codecademy.com/courses/learn-java/quizzes/java-conditionals-and-control-flow-quiz-updated)
+- Project: [`A Simple Car Loan Payment Calculator`](https://www.codecademy.com/courses/learn-java/projects/loan-payment-calculator)
+- Project: [`Continents and Cities`](https://www.codecademy.com/courses/learn-java/projects/continents-cities)
+
+`Objective`- *`Compare different methods of writing conditionals and control flow`*
+`Objective`- *`Solve problems using conditionals`*
+
+### JAVA INTRO 3 - Arrays, Arraylists, Loops, and Strings
+
+***Arrays and ArrayLists***
+
+- Lesson: [`Learn Java: Arrays`](https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/resume)
+- Quiz: [`Java Arrays Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-arrays-quiz)
+
+`Objective`- *`Explain the main characteristics of the commonly used data structure: Array`*
+
+***Arrays and ArrayLists***
+
+- Lesson: [`Learn Java: ArrayLists`](https://www.codecademy.com/courses/learn-java/lessons/learn-java-arraylists/resume)
+- Quiz: [`Java ArrayLists Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-arraylist-quiz)
+- Project: [`Desert Island Playlist`](https://www.codecademy.com/courses/learn-java/projects/java-desert-island-playlist)
+
+`Objective`- *`Define and use the Java Array implementation ArrayList`*
+`Objective`- *`Build lists of data with Java arrays and ArrayLists`*
+
+***Loops***
+
+- Lesson: [`Learn Java: Loops`](https://www.codecademy.com/courses/learn-java/lessons/learn-java-loops/resume)
+- Quiz: [`Learn Java: Loops Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-loops-quiz)
+- Project: [`Fizz Buzz`](https://www.codecademy.com/courses/learn-java/projects/java-fizzbuzz)
+- Project: [`The Prime Directive`](https://www.codecademy.com/courses/learn-java/projects/java-prime-directive)
+
+`Objective`- *`Use loops to iterate through lists and repeat code`*
+
+***String Methods***
+
+- Lesson: [`String Methods`](https://www.codecademy.com/courses/learn-java/lessons/java-string-methods/resume)
+- Quiz: [`String Methods`](https://www.codecademy.com/courses/learn-java/quizzes/java-string-methods-quiz)
+- Project: [`DNA Sequencing`](https://www.codecademy.com/courses/learn-java/projects/java-dna-sequencing)
+
+`Objective`- *`Perform operations on strings and manipulate string data`*
+
+### JAVA INTRO 4 - Inheritance and Polymorphism
+
+***Access, Encapsulation, and Static Methods***
+
+- Lesson: [`Access, Encapsulation, and Scope`](https://www.codecademy.com/courses/learn-java/lessons/access-encapsulation-and-scope-lesson/resume)
+- Quiz: [`Access, Encapsulation, and Scope`](https://www.codecademy.com/courses/learn-java/quizzes/access-encapsulation-and-scope)
+- Article: [`Static Methods of the Math Class`](https://www.codecademy.com/courses/learn-java/articles/static-methods-of-the-math-class)
+- Lesson: [`Static Variables and Methods`](https://www.codecademy.com/courses/learn-java/lessons/static-variables-and-methods-lesson/resume)
+- Quiz: [`Static Variables and Methods`](https://www.codecademy.com/courses/learn-java/quizzes/static-variables-and-methods)
+
+***Inheritance and Polymorphism***
+
+- Lesson: [`Inheritance and Polymorphism`](https://www.codecademy.com/courses/learn-java/lessons/java-inheritance-and-polymorphism/resume)
+- Quiz: [`Inheritance and Polymorphism Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-inheritance-and-polymorphism-quiz)
+- Project: [`Language Families`](https://www.codecademy.com/courses/learn-java/projects/java-language-families)
+
+`Objective`- *`Define Inheritance and Polymorphism`*
+`Objective`- *`Identify patterns in inheritance and polymorphism`*
+`Objective`- *`Write code using inheritance`*
+`Objective`- *`Write code using polymorphism`*
+
+### JAVA INTRO 5 - Debugging
+
+- Lesson: [`Debugging`](https://www.codecademy.com/courses/learn-java/lessons/java-debugging/resume)
+- Quiz: [`Debugging`](https://www.codecademy.com/courses/learn-java/quizzes/java-debugging-quiz)
+- Project: [`Bug Detective`](https://www.codecademy.com/courses/learn-java/projects/java-bug-detective)
+
+`Objective`- *`List the three categories of bugs found in Java`*
+`Objective`- *`Classify the type of bugs found in the code`*
+`Objective`- *`Use techniques to debug code in Java`*
+
+### JAVA INTRO 6 - Java Unit Testing with JUnit
+
+- Lesson: [`What is JUnit?`](https://automationintesting.com/java/junit/lessons/whatisjunit)
+
+`Objective`- *`Define JUnit`*
+
+- Lesson: [`Setting up JUnit`](https://automationintesting.com/java/junit/lessons/settingupjunit)
+
+`Objective`- *`Prepare the computer to use JUnit`*
+
+- Lesson: [`Creating tests with JUnit`](https://automationintesting.com/java/junit/lessons/creatingtestsinjunit)
+
+`Objective`- *`Explain how to create and simple test in JUnit`*
+
+- Lesson: [`What are Test Fixtures?`](https://automationintesting.com/java/junit/lessons/whataretestfixtures)
+
+`Objective`- *`Explain TextFixtures`*
+
+- Lesson: [`What are Assertions`](https://automationintesting.com/java/junit/lessons/assertions)
+
+`Objective`- *`Explain Assertions`*
+
+- Lesson: [`What are Matchers?`](https://automationintesting.com/java/junit/lessons/matchers)
+
+`Objective`- *`Explain Matchers`*
+
+- Lesson: [`Running Your Tests`](https://automationintesting.com/java/junit/lessons/runningtests)
+
+`Objective`- *`Use JUnit to run automated tests`*
+`Objective`- *`Apply unit testing in a Java project`*
+
+### JAVA WEB 1 - Introduction to Web Development using Java and Spring Boot
+### JAVA WEB 2 - Dependencies Injection using Spring Framework
+### JAVA WEB 3 - Spring Data JPA
+### JAVA WEB 4 - REST API with Spring Boot
+### JAVA WEB 5 - Secure API using JWT
+### JAVA WEB 6 - Unit Testing Web Components
+### JAVA WEB 7 - Web Applications Build & Deploy
