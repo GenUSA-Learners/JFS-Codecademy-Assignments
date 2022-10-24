@@ -18,6 +18,7 @@
 - [**Learn Build Tools***](https://www.codecademy.com/learn/learn-build-tools)
 - [**Building Interactive JavaScript Websites***](https://www.codecademy.com/learn/build-interactive-websites)
 - [**Learn JavaScript Unit Testing***](https://www.codecademy.com/learn/learn-javascript-unit-testing)
+- [**Learn SQL***](https://www.codecademy.com/learn/learn-sql)
 
 ## Homework + Learning Objectives
 
@@ -34,8 +35,8 @@
 - Video: [`Introduction to Code Foundations`](https://www.codecademy.com/paths/code-foundations/tracks/cf-introduction/modules/introduction-to-code-foundations/videos/introduction-to-code-foundations)
 - Lesson: [`Welcome to Codecademy!`](https://www.codecademy.com/paths/code-foundations/tracks/cf-introduction/modules/introduction-to-code-foundations/lessons/welcome-to-codecademy)
 
-  `Objective`- *`Identify Code Foundations`*
-  `Objective`- *`Write your first lines of code`*
+`Objective`- *`Identify Code Foundations`*
+`Objective`- *`Write your first lines of code`*
 
 ***Basics of Programming I***
 
@@ -47,7 +48,7 @@
 - Lesson: [`Operators`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-i/lessons/bop-operators)
 - Quiz: [`Operators Quiz`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-i/quizzes/bop-operators-quiz)
 
-  `Objective`- *`Use the essential programming concepts of variables, operators, and data types`*
+`Objective`- *`Use the essential programming concepts of variables, operators, and data types`*
 
 ***Basics of Programming II***
 
@@ -56,7 +57,7 @@
 - Lesson: [`Control Flow`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-ii/lessons/bop-control-flow)
 - Quiz: [`Control Flow Quiz`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-ii/quizzes/bop-control-flow-quiz)
 
-  `Objective`- *`Use the essential programming concepts of functions and control flow`*
+`Objective`- *`Use the essential programming concepts of functions and control flow`*
 
 ***Basics of Programming III***
 
@@ -65,7 +66,7 @@
 - Lesson: [`Loops`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-iii/lessons/bop-loops)
 - Quiz: [`Loops Quiz`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-iii/quizzes/bop-loops-quiz)
 
-  `Objective`- *`Use the essential programming concepts of lists and loops`*
+`Objective`- *`Use the essential programming concepts of lists and loops`*
 
 ***Computer Science***
 
@@ -633,3 +634,38 @@
 
 `Objective`- *`Explain Test-Driven Development`*
 `Objective`- *`Practice test-driven development to create a JavaScript testing suite using Mocha.js`*
+
+### RDB 1 - Learn SQL
+
+***Manipulation***
+
+- Lesson: [`Manipulation`](https://www.codecademy.com/courses/learn-sql/lessons/manipulation/resume)
+- Quiz: [`Manipulation`](https://www.codecademy.com/courses/learn-sql/quizzes/learn-sql-manipulation-sql-quiz-1)
+- Project: [`Create a Table`](https://www.codecademy.com/courses/learn-sql/projects/learn_sql_create_table)
+- Article: [`What is SQLite?`](https://www.codecademy.com/courses/learn-sql/articles/what-is-sqlite)
+
+`Objective`- *`Explain what SQL is and why it is used`*
+`Objective`- *`Create a table using SQL`*
+
+***Queries***
+
+- Lesson: [`Queries`](https://www.codecademy.com/courses/learn-sql/lessons/queries/resume)
+- Quiz: [`Queries`](https://www.codecademy.com/courses/learn-sql/quizzes/learn-sql-queries-sql-quiz-2)
+- Project: [`New York Restaurants`](https://www.codecademy.com/courses/learn-sql/projects/learn_sql_query_table-1)
+
+***Aggregating Functions***
+
+- Lesson: [`Aggregate Functions`](https://www.codecademy.com/courses/learn-sql/lessons/queries/resume)
+- Quiz: [`Aggregate Functions`](https://www.codecademy.com/courses/learn-sql/quizzes/learn-sql-aggregate-functions-sql-quiz-3)
+- Project: [`Trends in Startups`](https://www.codecademy.com/courses/learn-sql/projects/fakeapps)
+- Project: [`Analyze Hacker News Trends`](https://www.codecademy.com/courses/learn-sql/projects/sql-hackernews)
+
+***Multiple Tables***
+
+- Lesson: [`Multiple Tables`](https://www.codecademy.com/courses/learn-sql/lessons/multiple-tables/resume)
+- Project: [`Lyft Trip Data`](https://www.codecademy.com/courses/learn-sql/projects/multiple-tables-project)
+- Quiz: [`Multiple Tables`](https://www.codecademy.com/courses/learn-sql/quizzes/learn-sql-multiple-tables-sql-quiz-4)
+
+`Objective`- *`Use essential query keywords`*
+`Objective`- *`Use functions to perform data operations`*
+`Objective`- *`Use join and combine to manipulate data in more then one table`*
