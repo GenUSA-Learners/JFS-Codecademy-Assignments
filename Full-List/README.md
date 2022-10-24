@@ -36,8 +36,8 @@
 - Video: [`Introduction to Code Foundations`](https://www.codecademy.com/paths/code-foundations/tracks/cf-introduction/modules/introduction-to-code-foundations/videos/introduction-to-code-foundations)
 - Lesson: [`Welcome to Codecademy!`](https://www.codecademy.com/paths/code-foundations/tracks/cf-introduction/modules/introduction-to-code-foundations/lessons/welcome-to-codecademy)
 
-`Objective`- *`Identify Code Foundations`*
-`Objective`- *`Write your first lines of code`*
+  `Objective`- *`Identify Code Foundations`*
+  `Objective`- *`Write your first lines of code`*
 
 ***Basics of Programming I***
 
@@ -49,7 +49,7 @@
 - Lesson: [`Operators`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-i/lessons/bop-operators)
 - Quiz: [`Operators Quiz`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-i/quizzes/bop-operators-quiz)
 
-`Objective`- *`Use the essential programming concepts of variables, operators, and data types`*
+  `Objective`- *`Use the essential programming concepts of variables, operators, and data types`*
 
 ***Basics of Programming II***
 
@@ -58,7 +58,7 @@
 - Lesson: [`Control Flow`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-ii/lessons/bop-control-flow)
 - Quiz: [`Control Flow Quiz`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-ii/quizzes/bop-control-flow-quiz)
 
-`Objective`- *`Use the essential programming concepts of functions and control flow`*
+  `Objective`- *`Use the essential programming concepts of functions and control flow`*
 
 ***Basics of Programming III***
 
@@ -67,7 +67,7 @@
 - Lesson: [`Loops`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-iii/lessons/bop-loops)
 - Quiz: [`Loops Quiz`](https://www.codecademy.com/paths/code-foundations/tracks/learn-how-to-code/modules/bop-iii/quizzes/bop-loops-quiz)
 
-`Objective`- *`Use the essential programming concepts of lists and loops`*
+  `Objective`- *`Use the essential programming concepts of lists and loops`*
 
 ***Computer Science***
 
@@ -77,7 +77,7 @@
 - Lesson: [`Careers in Computer Science`](https://www.codecademy.com/paths/code-foundations/tracks/cf-computer-science/modules/survey-of-computer-science/lessons/careers-in-cs)
 - Article: [`Ridesharing Algorithms: Optimization and Iteration`](https://www.codecademy.com/paths/code-foundations/tracks/cf-computer-science/modules/survey-of-computer-science/articles/cf-cs-ridesharing)
 
-`Objective`- *`Explain key Computer Science concepts and their connection to the industry’s development`*
+  `Objective`- *`Explain key Computer Science concepts and their connection to the industry’s development`*
 
 ***Web Development***
 
@@ -86,7 +86,7 @@
 - Lesson: [`Languages for Web Development`](https://www.codecademy.com/paths/code-foundations/tracks/cf-web-development/modules/survey-of-web-development/lessons/web-dev-lang)
 - Article: [`JavaScript: All the Cool Kids Are Doing It`](https://www.codecademy.com/paths/code-foundations/tracks/cf-web-development/modules/survey-of-web-development/articles/growth-of-javascript)
 
-`Objective`- *`Indicate why software development is one of the most important skills of the 21st century`*
+  `Objective`- *`Indicate why software development is one of the most important skills of the 21st century`*
 
 ### PROG 3 - Command Line
 
@@ -98,8 +98,8 @@
 - Project: [`Bicycle World`](https://www.codecademy.com/courses/learn-the-command-line/projects/bicycle-world)
 - Article: [`Command Line Interface Setup`](https://www.codecademy.com/courses/learn-the-command-line/articles/command-line-setup)
 
-  `Objective`- *`Write your first Command on the Command Line`*
-  `Objective`- *`Use File System navigation commands`*
+    `Objective`- *`Write your first Command on the Command Line`*
+    `Objective`- *`Use File System navigation commands`*
 
 ***Viewing and Changing the File System***
 
@@ -109,7 +109,7 @@
 
 - Project: [`Artusi`](https://www.codecademy.com/courses/learn-the-command-line/projects/artusi)
 
-  `Objective`- *`Use the Command Line to manipulate directories and files in your computer`*
+    `Objective`- *`Use the Command Line to manipulate directories and files in your computer`*
 
 ***Redirecting Input and Output***
 
@@ -119,8 +119,8 @@
 
 - Project: [`Athletica`](https://www.codecademy.com/courses/learn-the-command-line/projects/athletica)
 
-  `Objective`- *`Use the command line to direct the input and output of a command to and from other files and programs`*
-  `Objective`- *`Compose chains of commands together in a pipeline`*
+    `Objective`- *`Use the command line to direct the input and output of a command to and from other files and programs`*
+    `Objective`- *`Compose chains of commands together in a pipeline`*
 
 ***Configuring the Environment***
 
@@ -156,7 +156,7 @@
 - Quiz: [`Basic Git Workflow`](https://www.codecademy.com/courses/learn-git/quizzes/git-1)
 - External Resource: [`Git Cheatsheet`](https://www.codecademy.com/courses/learn-git/external_resources/fecp-external-git-cheat-sheet)
 
-`Objective`- *`Explain Git and its core features`*
+  `Objective`- *`Explain Git and its core features`*
 
 ***Important Git Operations***
 
@@ -166,8 +166,8 @@
 - Quiz: [`How to Backtrack in Git`](https://www.codecademy.com/courses/learn-git/quizzes/git-2)
 - Article: [`Handy Git Operations`](https://www.codecademy.com/courses/learn-git/articles/handy-git-operations)
 
-`Objective`- *`Apply different ways to undo changes made to a Git project`*
-`Objective`- *`Describe when to use them`*
+  `Objective`- *`Apply different ways to undo changes made to a Git project`*
+  `Objective`- *`Describe when to use them`*
 
 ***Git Branching***
 **Note:* We'll come back to the skipped Modules in the next unit!
@@ -177,7 +177,7 @@
 - Project: [`Ruby Time Calculator`](https://www.codecademy.com/courses/learn-git/projects/ruby-time-calc)
 - Quiz: [`Git Branching`](https://www.codecademy.com/courses/learn-git/quizzes/git-3)
 
-`Objective`- *`Create multiple versions of a project with branching`*
+  `Objective`- *`Create multiple versions of a project with branching`*
 
 ***Git Teamwork***
 
@@ -186,7 +186,7 @@
 - Project: [`Recipe Book`](https://www.codecademy.com/courses/learn-git/projects/recipe-book)
 - Quiz: [`Git Teamwork`](https://www.codecademy.com/courses/learn-git/quizzes/git-4)
 
-`Objective`- *`Demonstrate Git collaborations with remotes, pulling and pushing`*
+  `Objective`- *`Demonstrate Git collaborations with remotes, pulling and pushing`*
 
 ### PROG 5 - GitHub
 
@@ -201,12 +201,12 @@
 - Lesson: [`The GitHub Flow`](https://www.codecademy.com/courses/learn-git/lessons/github-flow/resume)
 - Quiz: [`The GitHub Flow`](https://www.codecademy.com/courses/learn-git/quizzes/github-flow-quiz)
 
-`Objective`- *`Define GitHub`*
-`Objective`- *`Create and use a repository`*
-`Objective`- *`Start and manage a new branch`*
-`Objective`- *`Collaborate with others on GitHub`*
-`Objective`- *`Make changes to a file and push them to GitHub as commits`*
-`Objective`- *`Open and merge a pull request`*
+  `Objective`- *`Define GitHub`*
+  `Objective`- *`Create and use a repository`*
+  `Objective`- *`Start and manage a new branch`*
+  `Objective`- *`Collaborate with others on GitHub`*
+  `Objective`- *`Make changes to a file and push them to GitHub as commits`*
+  `Objective`- *`Open and merge a pull request`*
 
 ***Introduction to GitHub Course: Off-Platform Assignment*** (**recommended*)
 **Note:* This session may take *approx* `1 hrs 15 min` to complete
@@ -234,8 +234,8 @@
 - Quiz: [`HTML Document Standards`](https://www.codecademy.com/courses/learn-html/quizzes/html-document-standards-quiz)
 - Project: [`Fashion Blog`](https://www.codecademy.com/courses/learn-html/projects/html-fashion-blog)
 
-`Objective`- *`Explain HTML elements`*
-`Objective`- *`Describe the Structure of an HTML page`*
+  `Objective`- *`Explain HTML elements`*
+  `Objective`- *`Describe the Structure of an HTML page`*
 
 ***Tables***
 
@@ -243,7 +243,7 @@
 - Quiz: [HTML Tables](https://www.codecademy.com/courses/learn-html/quizzes/html-tables-quiz)
 - Project: [Wine Festival Schedule](https://www.codecademy.com/courses/learn-html/projects/html-wine-festival-schedule)
 
-`Objective`- *`Create tables in your HTML documents`*
+  `Objective`- *`Create tables in your HTML documents`*
 
 ***Forms***
 
@@ -252,8 +252,8 @@
 - Quiz: [HTML Forms](https://www.codecademy.com/courses/learn-html/quizzes/html-forms-quiz)
 - Project: [Form a Story](https://www.codecademy.com/courses/learn-html/projects/form-a-story)
 
-`Objective`- *`Create forms`*
-`Objective`- *`Integrate HTML5 validations`*
+  `Objective`- *`Create forms`*
+  `Objective`- *`Integrate HTML5 validations`*
 
 ***Semantic HTML***
 
@@ -261,7 +261,7 @@
 - Quiz: [Semantic HTML](https://www.codecademy.com/courses/learn-html/quizzes/semantic-html-quiz)
 - Project: [New York City Blog](https://www.codecademy.com/courses/learn-html/projects/semantic-html-nyc-blog)
 
-`Objective`- *`Write Accessible HTML using Semantic HTML tags`*
+  `Objective`- *`Write Accessible HTML using Semantic HTML tags`*
 
 ### WEB 2 - CSS
 
@@ -272,7 +272,7 @@
 - Project: [`Healthy Recipies`](https://www.codecademy.com/courses/learn-css/projects/css-selectors-1)
 - Quiz: [`Setup and Selectors`](https://www.codecademy.com/courses/learn-css/quizzes/css-setup-selectors-quiz)
 
-`Objective`- *`Explain what CSS is and how to use it to style pages`*
+  `Objective`- *`Explain what CSS is and how to use it to style pages`*
 
 ***Visual Rules***
 
@@ -280,7 +280,7 @@
 - Project: [`Olivia woodruff Portfolio`](https://www.codecademy.com/courses/learn-css/projects/css-visual-rules-project)
 - Quiz: [`Visual Rules`](https://www.codecademy.com/courses/learn-css/quizzes/learn-css-selectors-visual-rules-css-visual-rules)
 
-`Objective`- *`Style individual and grups of elements using various visual CSS rules`*
+  `Objective`- *`Style individual and grups of elements using various visual CSS rules`*
 
 ***The Box Model***
 
@@ -291,7 +291,7 @@
 - Article: [The Box Model in Dev Tools](https://www.codecademy.com/courses/learn-css/articles/f1-devtools-box-model)
 - Video: [The Box Model in Dev Tools](https://www.codecademy.com/courses/learn-css/videos/the-box-model-in-devtools)
 
-`Objective`- *`Explain how to use the Box Model to position HTML elements`*
+  `Objective`- *`Explain how to use the Box Model to position HTML elements`*
 
 ***Display and Positioning***
 
@@ -299,7 +299,7 @@
 - Project: [Broadway](https://www.codecademy.com/courses/learn-css/projects/broadway-design)
 - Quiz: [Display and Positioning](https://www.codecademy.com/courses/learn-css/quizzes/css-display-positioning-quiz)
 
-`Objective`- *`Demonstrate how to display and position elements on your web page`*
+  `Objective`- *`Demonstrate how to display and position elements on your web page`*
 
 ***Colors***
 
@@ -307,7 +307,7 @@
 - Project: [Paint Store](https://www.codecademy.com/courses/learn-css/projects/color-paint-store)
 - Quiz: [Color](https://www.codecademy.com/courses/learn-css/quizzes/css-color)
 
-`Objective`- *`Change CSS colors using a variety of techniques`*
+  `Objective`- *`Change CSS colors using a variety of techniques`*
 
 ***Typography***
 
@@ -315,7 +315,7 @@
 - Lesson: [Typography](https://www.codecademy.com/courses/learn-css/projects/typography-ii)
 - Lesson: [Typography](https://www.codecademy.com/courses/learn-css/quizzes/css-typography-quiz)
 
-`Objective`- *`Style font through CSS typography`*
+  `Objective`- *`Style font through CSS typography`*
 
 ***Grid***
 
@@ -326,7 +326,7 @@
 - Project: [CSS Grid: Task Board](https://www.codecademy.com/courses/learn-intermediate-css/projects/css-grid-task-board)
 - Quiz: [Grid 2](https://www.codecademy.com/courses/learn-intermediate-css/quizzes/css-grid-2)
 
-`Objective`- *`Lay-out and position elements on web pages using the CSS Grid concept`*
+  `Objective`- *`Lay-out and position elements on web pages using the CSS Grid concept`*
 
 ***Learn CSS: CSS Transitions***
 
@@ -334,7 +334,7 @@
 - Project: [Transitions - 20,000 Leagues Under the Sea](https://www.codecademy.com/courses/learn-intermediate-css/projects/transitions-book)
 - Quiz: [Transitions](https://www.codecademy.com/courses/learn-intermediate-css/quizzes/animation-transitions-quiz)
 
-`Objective`- *`Implement CSS animation using transitions`*
+  `Objective`- *`Implement CSS animation using transitions`*
 
 ### WEB 3 - Bootstrap
 
@@ -347,9 +347,9 @@
 - Quiz: [`Bootstrap Utilities and Components`](https://www.codecademy.com/courses/learn-bootstrap/quizzes/bootstrap-utilities-and-components)
 - Project: [`Adhoc`](https://www.codecademy.com/courses/learn-bootstrap/projects/adhoc-bootstrap)
 
-`Objective`- *`Explain the core concept of Bootstrap`*
-`Objective`- *`Layout and style your website using Bootstrap`*
-`Objective`- *`Style and populate your website using Bootstrap’s utility classes and components`*
+  `Objective`- *`Explain the core concept of Bootstrap`*
+  `Objective`- *`Layout and style your website using Bootstrap`*
+  `Objective`- *`Style and populate your website using Bootstrap’s utility classes and components`*
 
 ### WEB 4 - Build and Deploy Websites
 
@@ -364,9 +364,9 @@
 - Project: [`Off-Platform Project: Dasmoto's Arts & Crafts`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/build-websites-on-your-own-computer/modules/local-website-development/projects/dasmoto)
 - Informational: [`Dasmoto Project Solution`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/build-websites-on-your-own-computer/modules/local-website-development/informationals/dasmoto-solution)
 
-`Objective`- *`Set up the code editor`*
-`Objective`- *`Use Chrome Devtools`*
-`Objective`- *`Explain how to build websites on your computer`*
+  `Objective`- *`Set up the code editor`*
+  `Objective`- *`Use Chrome Devtools`*
+  `Objective`- *`Explain how to build websites on your computer`*
 
 ***Learn Responsive Design***
 
@@ -376,7 +376,7 @@
 - Quiz: [`Sizing Elements`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/learn-responsive-design-module/quizzes/sizing-elements-quiz)
 - Quiz: [`Media Queries`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/learn-responsive-design-module/quizzes/learn-responsive-design-media-queries-quiz)
 
-`Objective`- *`Use responsive design techniques, like relative sizing units and media queries, to create websites viewable on devices of all sizes`*
+  `Objective`- *`Use responsive design techniques, like relative sizing units and media queries, to create websites viewable on devices of all sizes`*
 
 ***Web Accessibility***
 
@@ -384,7 +384,7 @@
 - Lesson: [`Accessibility`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/web-accessibility/lessons/accessibility)
 - Article: [`Setting Up and Using Screen Readers`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/web-accessibility/articles/how-to-setup-screen-reader)
 
-`Objective`- *`Explain how to ensure that your website is accessible and usable to everyone`*
+  `Objective`- *`Explain how to ensure that your website is accessible and usable to everyone`*
 
 ***CSS Documentation and Debugging***
 
@@ -393,25 +393,25 @@
 - Informational: [`Off-Platform Project: Fotomatic`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/css-documentation-and-debugging/informationals/f1-2-c1p1-fotomatic)
 - Informational: [`Fotomatic Solution`](https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/responsive-design-and-accessibility/modules/css-documentation-and-debugging/informationals/bws-u6p1-solution)
 
-`Objective`- *`Describe how to look up things that you don’t know in official documentation so that you can solve problems independently`*
+  `Objective`- *`Describe how to look up things that you don’t know in official documentation so that you can solve problems independently`*
 
 ***Create a Website***
 
 - Lesson: [`Create a Static Website Using Jekyll`](https://www.codecademy.com/courses/deploy-a-website/lessons/create-static-site/resume)
 
-`Objective`- *`Use Jekyll to get new static sites quickly up and running`*
+  `Objective`- *`Use Jekyll to get new static sites quickly up and running`*
 
 ***Deploy Your Website***
 
 - Lesson: [`Deploy Your Website to GitHub Pages`](https://www.codecademy.com/courses/deploy-a-website/lessons/github-pages/resume)
 
-`Objective`- *`Use the GitHub workflow to host your site using the GitHub Pages service`*
+  `Objective`- *`Use the GitHub workflow to host your site using the GitHub Pages service`*
 
 ***Custom Domain Names***
 
 - Lesson: [`Assign a Custom Domain Name to Your Website`](https://www.codecademy.com/courses/deploy-a-website/lessons/aws-route-53/resume)
 
-`Objective`- *`[OPTIONAL] Use Amazon Web Services (AWS) to purchase a custom domain name and assign it to your personal website`*
+  `Objective`- *`[OPTIONAL] Use Amazon Web Services (AWS) to purchase a custom domain name and assign it to your personal website`*
 
 ### JS 1 - Intro to JS
 
@@ -419,7 +419,7 @@
 
 - Informational: [Welcome to Learn JavaScript](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
 
-`Objective`- *`Describe the JavaScript programming language and its characteristics`*
+  `Objective`- *`Describe the JavaScript programming language and its characteristics`*
 
 ***Introduction***
 
@@ -431,8 +431,8 @@
 - Article: [`JavaScript Versions: ES6 and Before`](https://www.codecademy.com/courses/introduction-to-javascript/articles/javascript-versions)
 - Article: [`Make the Most of Your Codecaemy Membership`](https://www.codecademy.com/courses/introduction-to-javascript/articles/make-the-most-of-your-codecademy-membership)
 
-`Objective`- *`Describe the JavaScript programming language and its characteristics`*
-`Objective`- *`Describe the JavaScript data types, built-in methods, and variables`*
+  `Objective`- *`Describe the JavaScript programming language and its characteristics`*
+  `Objective`- *`Describe the JavaScript data types, built-in methods, and variables`*
 
 ***Conditionals***
 
@@ -441,7 +441,7 @@
 - Lesson: [`Race Day`](https://www.codecademy.com/courses/introduction-to-javascript/projects/race-day)
 - Quiz: [`Conditional Statements`](https://www.codecademy.com/courses/introduction-to-javascript/quizzes/learn-javascript-control-flow-control-flow-quiz)
 
-`Objective`- *`Use if, else if, else, switch, and ternary syntax to control the flow of a program`*
+  `Objective`- *`Use if, else if, else, switch, and ternary syntax to control the flow of a program`*
 
 ### JS 2 - Functions, Scope, Program Flow
 
@@ -452,9 +452,9 @@
 - Project: [`Sleep Debt Calculator`](https://www.codecademy.com/courses/introduction-to-javascript/projects/sleep-debt-calculator)
 - Quiz: [`Functions`](https://www.codecademy.com/courses/introduction-to-javascript/quizzes/learn-javascript-functions-functions-quiz)
 
-`Objective`- *`Describe JavaScript's function syntax`*
-`Objective`- *`Practice passing data to functions`*
-`Objective`- *`Use the return keyword, ES6 arrow functions, and concise body syntax`*
+  `Objective`- *`Describe JavaScript's function syntax`*
+  `Objective`- *`Practice passing data to functions`*
+  `Objective`- *`Use the return keyword, ES6 arrow functions, and concise body syntax`*
 
 ***Scope***
 
@@ -462,8 +462,8 @@
 - Project: [`Training Days`](https://www.codecademy.com/courses/introduction-to-javascript/projects/training-days)
 - Quiz: [`Scope`](https://www.codecademy.com/courses/introduction-to-javascript/quizzes/learn-javascript-scope-scope-quiz)
 
-`Objective`- *`Classify global and block level scope in JavaScript`*
-`Objective`- *`Practice scoping when declaring variables`*
+  `Objective`- *`Classify global and block level scope in JavaScript`*
+  `Objective`- *`Practice scoping when declaring variables`*
 
 ***Arrays***
 
@@ -471,8 +471,8 @@
 - Project: [`Secret Message`](https://www.codecademy.com/courses/introduction-to-javascript/projects/secret-message)
 - Quiz: [`Arrays`](https://www.codecademy.com/courses/introduction-to-javascript/quizzes/arrays-quiz)
 
-`Objective`- *`Describe the arrays data structure in JavaScript`*
-`Objective`- *`Use arrays methods and properties`*
+  `Objective`- *`Describe the arrays data structure in JavaScript`*
+  `Objective`- *`Use arrays methods and properties`*
 
 ***Loops***
 
@@ -480,7 +480,7 @@
 - Project: [`Whale Talk`](https://www.codecademy.com/courses/introduction-to-javascript/projects/whale-talk)
 - Quiz: [`Loops`](https://www.codecademy.com/courses/introduction-to-javascript/quizzes/loops-quiz)
 
-`Objective`- *`Use for and while loops to execute blocks of code multiple times`*
+  `Objective`- *`Use for and while loops to execute blocks of code multiple times`*
 
 ***Iterators***
 
@@ -489,7 +489,7 @@
 - Quiz: [`Higher Order Functions and Iterators`](https://www.codecademy.com/courses/introduction-to-javascript/quizzes/higher-order-functions-and-iterators)
 - Project: [`Grammar Checker`](https://www.codecademy.com/courses/introduction-to-javascript/projects/mini-linter)
 
-`Objective`- *`Use iterator methods to simplify the process of looping over arrays`*
+  `Objective`- *`Use iterator methods to simplify the process of looping over arrays`*
 
 ### JS 3 - Object Oriented Programming
 
@@ -501,13 +501,13 @@
 - Project: [`Team Stats`](https://www.codecademy.com/courses/introduction-to-javascript/projects/team-stats)
 - Quiz: [`Objects`](https://www.codecademy.com/courses/introduction-to-javascript/quizzes/learn-javascript-objects-objects-quiz)
 
-`Objective`- *`Describe the JavaScript ES6 object syntax`*
-`Objective`- *`Store data and functions inside JavaScript objects`*
-`Objective`- *`Use the` **`this`** `keyword`*
-`Objective`- *`Convey privacy in JavaScript methods`*
-`Objective`- *`Define getters and setters in objects`*
-`Objective`- *`Create factory functions`*
-`Objective`- *`Use destructuring techniques`*
+  `Objective`- *`Describe the JavaScript ES6 object syntax`*
+  `Objective`- *`Store data and functions inside JavaScript objects`*
+  `Objective`- *`Use the` **`this`** `keyword`*
+  `Objective`- *`Convey privacy in JavaScript methods`*
+  `Objective`- *`Define getters and setters in objects`*
+  `Objective`- *`Create factory functions`*
+  `Objective`- *`Use destructuring techniques`*
 
 ***Next Steps***
 
@@ -524,8 +524,8 @@
 - Project: [`School Catalogue`](https://www.codecademy.com/courses/learn-intermediate-javascript/projects/school-catalog)
 - Quiz: [`Classes`](https://www.codecademy.com/courses/learn-intermediate-javascript/quizzes/classes-quiz)
 
-`Objective`- *`Create classes In JavaScript`*
-`Objective`- *`Use inheritance to minimise redundancy in your code`*
+  `Objective`- *`Create classes In JavaScript`*
+  `Objective`- *`Use inheritance to minimise redundancy in your code`*
 
 ***Welcome to Learn Build Tools***
 
@@ -543,8 +543,8 @@
 - Project: [`Transpilation`](https://www.codecademy.com/courses/learn-build-tools/projects/transpilation)
 - Quiz: [`Browser Compatibility and Transpilation`](https://www.codecademy.com/courses/learn-build-tools/quizzes/browser-compatibility-transpilation-quiz)
 
-`Objective`- *`Explain browser Compatibility for JavaScript`*
-`Objective`- *`Transpile JavaScript ES6 code to ES5`*
+  `Objective`- *`Explain browser Compatibility for JavaScript`*
+  `Objective`- *`Transpile JavaScript ES6 code to ES5`*
 
 ***Modules***
 
@@ -555,8 +555,8 @@
 - Project: [`WorkAround Explorer`](https://www.codecademy.com/courses/learn-intermediate-javascript/projects/es6-modules-workaround)
 - Quiz: [`Modules`](https://www.codecademy.com/courses/learn-intermediate-javascript/quizzes/modules-quiz)
 
-`Objective`- *`Identify modules in JavaScript`*
-`Objective`- *`Use modules to reuse code`*
+  `Objective`- *`Identify modules in JavaScript`*
+  `Objective`- *`Use modules to reuse code`*
 
 ### JS 4 - Asynchronous JS and Requests
 
@@ -565,15 +565,15 @@
 - Lesson: [`JavaScript Promises`](https://www.codecademy.com/courses/learn-intermediate-javascript/lessons/promises/resume)
 - Quiz: [`JavaScript Promises`](https://www.codecademy.com/courses/learn-intermediate-javascript/quizzes/js-promises)
 
-`Objective`- *`Explain what is asynchronous JavaScript`*
-`Objective`- *`Write asynchronous JavaScript using native promises`*
+  `Objective`- *`Explain what is asynchronous JavaScript`*
+  `Objective`- *`Write asynchronous JavaScript using native promises`*
 
 ***Async-Await***
 
 - Lesson: [`Async-Await`](https://www.codecademy.com/courses/learn-intermediate-javascript/lessons/async-await/resume)
 - Quiz: [`Async-Await`](https://www.codecademy.com/courses/learn-intermediate-javascript/quizzes/async-await-quiz)
 
-`Objective`- *`Use ES8 syntax for writing asynchronous functions that read like synchronous code`*
+  `Objective`- *`Use ES8 syntax for writing asynchronous functions that read like synchronous code`*
 
 ***Requests***
 
@@ -582,9 +582,9 @@
 - Quiz: [`Requests with Fetch API`](https://www.codecademy.com/courses/learn-intermediate-javascript/quizzes/js-requests-with-fetch-api-quiz)
 - Project: [`Film Finder`](https://www.codecademy.com/courses/learn-intermediate-javascript/projects/js-film-finder)
 
-`Objective`- *`Explain how your web browser communicates with the internet`*
-`Objective`- *`Explain the benefits of asynchronous JavaScript properties`*
-`Objective`- *`Create calls to various APIs using four different techniques`*
+  `Objective`- *`Explain how your web browser communicates with the internet`*
+  `Objective`- *`Explain the benefits of asynchronous JavaScript properties`*
+  `Objective`- *`Create calls to various APIs using four different techniques`*
 
 ### JS 5 - DOM Manipulation
 
@@ -597,15 +597,15 @@
 - Quiz: [`JavaScript and the DOM`](https://www.codecademy.com/courses/build-interactive-websites/quizzes/javascript-and-the-dom)
 - Project: [`Chore Door`](https://www.codecademy.com/courses/build-interactive-websites/projects/chore-door-revised)
 
-`Objective`- *`Explain what is the Document Object Model`*
-`Objective`- *`Describe how JavaScript interacts with the DOM`*
-`Objective`- *`Practice Manipulating the DOM with JavaScript`*
+  `Objective`- *`Explain what is the Document Object Model`*
+  `Objective`- *`Describe how JavaScript interacts with the DOM`*
+  `Objective`- *`Practice Manipulating the DOM with JavaScript`*
 
 - Lesson: [`DOM Events with JavaScript`](https://www.codecademy.com/courses/build-interactive-websites/lessons/dom-events/resume)
 - Quiz: [`DOM Events`](https://www.codecademy.com/courses/build-interactive-websites/quizzes/dom-events-quiz)
 - Project: [`Piano Keys`](https://www.codecademy.com/courses/build-interactive-websites/projects/piano-keys)
 
-`Objective`- *`Use JavaScript events in the browser to create web page interactivity`*
+  `Objective`- *`Use JavaScript events in the browser to create web page interactivity`*
 
 ### JS 6 - Unit Testing
 
@@ -615,8 +615,8 @@
 - Project: [`Cake O'Clock`](https://www.codecademy.com/courses/learn-javascript-unit-testing/projects/cake-clock)
 - Quiz: [`Why Test?`](https://www.codecademy.com/courses/learn-javascript-unit-testing/quizzes/why-test-quiz)
 
-`Objective`- *`Explain the benefits of software testing`*
-`Objective`- *`Identify the terminology to explain them`*
+  `Objective`- *`Explain the benefits of software testing`*
+  `Objective`- *`Identify the terminology to explain them`*
 
 ***Write Good Tests with Mocha***
 
@@ -625,7 +625,7 @@
 - Project: [`Rooster Regulation`](https://www.codecademy.com/courses/learn-javascript-unit-testing/projects/rooster-regulation)
 - Quiz: [`Learn Mocha`](https://www.codecademy.com/courses/learn-javascript-unit-testing/quizzes/learn-mocha-quiz)
 
-`Objective`- *`Use the Mocha framework and the Node.js assert library to write, automate, and organise tests in Javascript`*
+  `Objective`- *`Use the Mocha framework and the Node.js assert library to write, automate, and organise tests in Javascript`*
 
 ***Learn Test-Driven Development with Mocha***
 
@@ -633,8 +633,8 @@
 - Project: [`Factorial Feature`](https://www.codecademy.com/courses/learn-javascript-unit-testing/projects/factorial)
 - Quiz: [`TDD with Mocha`](https://www.codecademy.com/courses/learn-javascript-unit-testing/quizzes/mocha-tdd-quiz)
 
-`Objective`- *`Explain Test-Driven Development`*
-`Objective`- *`Practice test-driven development to create a JavaScript testing suite using Mocha.js`*
+  `Objective`- *`Explain Test-Driven Development`*
+  `Objective`- *`Practice test-driven development to create a JavaScript testing suite using Mocha.js`*
 
 ### RDB 1 - Learn SQL
 
@@ -645,8 +645,8 @@
 - Project: [`Create a Table`](https://www.codecademy.com/courses/learn-sql/projects/learn_sql_create_table)
 - Article: [`What is SQLite?`](https://www.codecademy.com/courses/learn-sql/articles/what-is-sqlite)
 
-`Objective`- *`Explain what SQL is and why it is used`*
-`Objective`- *`Create a table using SQL`*
+  `Objective`- *`Explain what SQL is and why it is used`*
+  `Objective`- *`Create a table using SQL`*
 
 ***Queries***
 
@@ -667,9 +667,9 @@
 - Project: [`Lyft Trip Data`](https://www.codecademy.com/courses/learn-sql/projects/multiple-tables-project)
 - Quiz: [`Multiple Tables`](https://www.codecademy.com/courses/learn-sql/quizzes/learn-sql-multiple-tables-sql-quiz-4)
 
-`Objective`- *`Use essential query keywords`*
-`Objective`- *`Use functions to perform data operations`*
-`Objective`- *`Use join and combine to manipulate data in more then one table`*
+  `Objective`- *`Use essential query keywords`*
+  `Objective`- *`Use functions to perform data operations`*
+  `Objective`- *`Use join and combine to manipulate data in more then one table`*
 
 ### JAVA INTRO 1 - Hello World and Variables
 
@@ -681,7 +681,7 @@
 - Project: [`Planting a Tree`](https://www.codecademy.com/courses/learn-java/projects/planting-a-tree)
 - Article: [`What is an IDE?`](https://www.codecademy.com/courses/learn-java/articles/what-is-an-ide)
 
-`Objective`- *`Explain how to write a simple Hello, World program using Java`*
+  `Objective`- *`Explain how to write a simple Hello, World program using Java`*
 
 ***Variables***
 
@@ -692,8 +692,8 @@
 - Quiz: [`Java Variable Manipulation Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-variable-manipulation-quiz)
 - Project: [`Math Magic`](https://www.codecademy.com/courses/learn-java/projects/math-magic)
 
-`Objective`- *`Explain data types`*
-`Objective`- *`Manipulate variables`*
+  `Objective`- *`Explain data types`*
+  `Objective`- *`Manipulate variables`*
 
 ### JAVA INTRO 2 - Object Oriented Java Using Classes, Conditionals and Control Flow
 
@@ -707,7 +707,7 @@
 - Project: [`Basic Calculator`](https://www.codecademy.com/courses/learn-java/projects/basic-calculator)
 - Project: [`Build a Droid`](https://www.codecademy.com/courses/learn-java/projects/build-a-droid)
 
-`Objective`- *`Explain syntax for defining classes and creating instances`*
+  `Objective`- *`Explain syntax for defining classes and creating instances`*
 
 ***Conditionals and Control Flow***
 
@@ -717,8 +717,8 @@
 - Project: [`A Simple Car Loan Payment Calculator`](https://www.codecademy.com/courses/learn-java/projects/loan-payment-calculator)
 - Project: [`Continents and Cities`](https://www.codecademy.com/courses/learn-java/projects/continents-cities)
 
-`Objective`- *`Compare different methods of writing conditionals and control flow`*
-`Objective`- *`Solve problems using conditionals`*
+  `Objective`- *`Compare different methods of writing conditionals and control flow`*
+  `Objective`- *`Solve problems using conditionals`*
 
 ### JAVA INTRO 3 - Arrays, Arraylists, Loops, and Strings
 
@@ -727,7 +727,7 @@
 - Lesson: [`Learn Java: Arrays`](https://www.codecademy.com/courses/learn-java/lessons/learn-java-arrays/resume)
 - Quiz: [`Java Arrays Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-arrays-quiz)
 
-`Objective`- *`Explain the main characteristics of the commonly used data structure: Array`*
+  `Objective`- *`Explain the main characteristics of the commonly used data structure: Array`*
 
 ***Arrays and ArrayLists***
 
@@ -735,8 +735,8 @@
 - Quiz: [`Java ArrayLists Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-arraylist-quiz)
 - Project: [`Desert Island Playlist`](https://www.codecademy.com/courses/learn-java/projects/java-desert-island-playlist)
 
-`Objective`- *`Define and use the Java Array implementation ArrayList`*
-`Objective`- *`Build lists of data with Java arrays and ArrayLists`*
+  `Objective`- *`Define and use the Java Array implementation ArrayList`*
+  `Objective`- *`Build lists of data with Java arrays and ArrayLists`*
 
 ***Loops***
 
@@ -745,7 +745,7 @@
 - Project: [`Fizz Buzz`](https://www.codecademy.com/courses/learn-java/projects/java-fizzbuzz)
 - Project: [`The Prime Directive`](https://www.codecademy.com/courses/learn-java/projects/java-prime-directive)
 
-`Objective`- *`Use loops to iterate through lists and repeat code`*
+  `Objective`- *`Use loops to iterate through lists and repeat code`*
 
 ***String Methods***
 
@@ -753,7 +753,7 @@
 - Quiz: [`String Methods`](https://www.codecademy.com/courses/learn-java/quizzes/java-string-methods-quiz)
 - Project: [`DNA Sequencing`](https://www.codecademy.com/courses/learn-java/projects/java-dna-sequencing)
 
-`Objective`- *`Perform operations on strings and manipulate string data`*
+  `Objective`- *`Perform operations on strings and manipulate string data`*
 
 ### JAVA INTRO 4 - Inheritance and Polymorphism
 
@@ -771,10 +771,10 @@
 - Quiz: [`Inheritance and Polymorphism Quiz`](https://www.codecademy.com/courses/learn-java/quizzes/java-inheritance-and-polymorphism-quiz)
 - Project: [`Language Families`](https://www.codecademy.com/courses/learn-java/projects/java-language-families)
 
-`Objective`- *`Define Inheritance and Polymorphism`*
-`Objective`- *`Identify patterns in inheritance and polymorphism`*
-`Objective`- *`Write code using inheritance`*
-`Objective`- *`Write code using polymorphism`*
+  `Objective`- *`Define Inheritance and Polymorphism`*
+  `Objective`- *`Identify patterns in inheritance and polymorphism`*
+  `Objective`- *`Write code using inheritance`*
+  `Objective`- *`Write code using polymorphism`*
 
 ### JAVA INTRO 5 - Debugging
 
@@ -782,40 +782,40 @@
 - Quiz: [`Debugging`](https://www.codecademy.com/courses/learn-java/quizzes/java-debugging-quiz)
 - Project: [`Bug Detective`](https://www.codecademy.com/courses/learn-java/projects/java-bug-detective)
 
-`Objective`- *`List the three categories of bugs found in Java`*
-`Objective`- *`Classify the type of bugs found in the code`*
-`Objective`- *`Use techniques to debug code in Java`*
+  `Objective`- *`List the three categories of bugs found in Java`*
+  `Objective`- *`Classify the type of bugs found in the code`*
+  `Objective`- *`Use techniques to debug code in Java`*
 
 ### JAVA INTRO 6 - Java Unit Testing with JUnit
 
 - Lesson: [`What is JUnit?`](https://automationintesting.com/java/junit/lessons/whatisjunit)
 
-`Objective`- *`Define JUnit`*
+  `Objective`- *`Define JUnit`*
 
 - Lesson: [`Setting up JUnit`](https://automationintesting.com/java/junit/lessons/settingupjunit)
 
-`Objective`- *`Prepare the computer to use JUnit`*
+  `Objective`- *`Prepare the computer to use JUnit`*
 
 - Lesson: [`Creating tests with JUnit`](https://automationintesting.com/java/junit/lessons/creatingtestsinjunit)
 
-`Objective`- *`Explain how to create and simple test in JUnit`*
+  `Objective`- *`Explain how to create and simple test in JUnit`*
 
 - Lesson: [`What are Test Fixtures?`](https://automationintesting.com/java/junit/lessons/whataretestfixtures)
 
-`Objective`- *`Explain TextFixtures`*
+  `Objective`- *`Explain TextFixtures`*
 
 - Lesson: [`What are Assertions`](https://automationintesting.com/java/junit/lessons/assertions)
 
-`Objective`- *`Explain Assertions`*
+  `Objective`- *`Explain Assertions`*
 
 - Lesson: [`What are Matchers?`](https://automationintesting.com/java/junit/lessons/matchers)
 
-`Objective`- *`Explain Matchers`*
+  `Objective`- *`Explain Matchers`*
 
 - Lesson: [`Running Your Tests`](https://automationintesting.com/java/junit/lessons/runningtests)
 
-`Objective`- *`Use JUnit to run automated tests`*
-`Objective`- *`Apply unit testing in a Java project`*
+  `Objective`- *`Use JUnit to run automated tests`*
+  `Objective`- *`Apply unit testing in a Java project`*
 
 ### JAVA WEB 1 - Introduction to Web Development using Java and Spring Boot
 ### JAVA WEB 2 - Dependencies Injection using Spring Framework
